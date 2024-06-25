@@ -14,3 +14,6 @@ def header_view(request):
 def footer_view(request):
     return render(request, 'shared/Footer.html')
 
+
+def test_shop(request):
+    pass
