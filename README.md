@@ -1,0 +1,1 @@
+this is d django shop project. this project just for test
